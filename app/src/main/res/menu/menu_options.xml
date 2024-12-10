@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_opcion1"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/menu_opcion2"
+        android:title="Configuración" />
+    <item
+        android:id="@+id/menu_opcion3"
+        android:title="Eventos inscritos" />
+    <item
+        android:id="@+id/menu_opcion4"
+        android:title="Puntaje" />
+    <item
+        android:id="@+id/menu_opcion5"
+        android:title="Correos" />
+    <item
+        android:id="@+id/menu_opcion6"
+        android:title="Cerrar sesión" />
+</menu>
